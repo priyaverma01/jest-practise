@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1747720054024" clover="3.2.0">
+  <project timestamp="1747720054025" name="All files">
+    <metrics statements="25" coveredstatements="22" conditionals="1" coveredconditionals="0" methods="9" coveredmethods="8" elements="35" coveredelements="30" complexity="0" loc="25" ncloc="25" packages="2" files="6" classes="6"/>
+    <package name="functions">
+      <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+      <file name="Math.js" path="/home/my/Documents/jest-practise/functions/Math.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+      <file name="Promise.js" path="/home/my/Documents/jest-practise/functions/Promise.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+      </file>
+      <file name="add.js" path="/home/my/Documents/jest-practise/functions/add.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+      <file name="welcome.js" path="/home/my/Documents/jest-practise/functions/welcome.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="functions.mockFunction">
+      <metrics statements="12" coveredstatements="9" conditionals="1" coveredconditionals="0" methods="4" coveredmethods="3"/>
+      <file name="ProductService.js" path="/home/my/Documents/jest-practise/functions/mockFunction/ProductService.js">
+        <metrics statements="8" coveredstatements="5" conditionals="1" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="6" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+      <file name="forEach.js" path="/home/my/Documents/jest-practise/functions/mockFunction/forEach.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
